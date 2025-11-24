@@ -1,0 +1,7 @@
+# Hide sensitive files
+config/db.php
+/assets/
+/xampp/
+/htdocs/
+*.log
+.env
